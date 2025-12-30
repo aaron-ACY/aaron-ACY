@@ -2,14 +2,6 @@
 👨🏻‍💻 Software Engineering student sharing my journey and learnings in tech <br/>
 👨🏻‍🎓 Studying Software Engineering in Da Nang, Vietnam<br/>
     Email Me 👉 ✉️ **huudanle123@gmail.com** 😊😊 
-<p align="left">
-  <a href="https://github.com/aaron-ACY?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/aaron-ACY?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/aaron-ACY?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/aaron-ACY?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
 
 
 ---
@@ -24,7 +16,7 @@
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huu.an.012006/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ldan.01/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huu.an.012006) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ldan.01/) 
 
 ---
 
