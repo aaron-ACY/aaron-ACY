@@ -32,9 +32,9 @@
 
 <h3><a href="https://github.com/aaron-ACY?tab=repositories"><img align="right" src="assets/view-all-repos.svg" height="20" alt="View all repositories"></a>Featured Projects</h3>
 
-<a href="https://github.com/aaron-ACY/HYPE-Ticket"><img src="assets/project-hypeticket.svg?v=2" width="32%" alt="HYPE-Ticket"></a>
-<a href="https://github.com/aaron-ACY/ProWatch"><img src="assets/project-prowatch.svg?v=2" width="32%" alt="ProWatch"></a>
-<a href="https://github.com/aaron-ACY/SIMS-FPI"><img src="assets/project-simsfpi.svg?v=2" width="32%" alt="SIMS-FPI"></a>
+<a href="https://github.com/aaron-ACY/HYPE-Ticket"><img src="assets/project-hypeticket-v2.svg" width="32%" alt="HYPE-Ticket"></a>
+<a href="https://github.com/aaron-ACY/ProWatch"><img src="assets/project-prowatch-v2.svg" width="32%" alt="ProWatch"></a>
+<a href="https://github.com/aaron-ACY/SIMS-FPI"><img src="assets/project-simsfpi-v2.svg" width="32%" alt="SIMS-FPI"></a>
 
 <!-- <h3><a href="#"><img align="right" src="assets/view-all-posts.svg" height="20" alt="View all posts"></a>My recent articles</h3>
 
