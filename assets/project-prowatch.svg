@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 192" width="300" height="192" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="ProWatch">
+<rect x="0.5" y="0.5" width="299" height="191" rx="10" fill="#0D1117" stroke="#30363D"/>
+<path transform="translate(16 15) scale(1.05)" fill="#38BDF8" d="M15.5 1h-7l-1 5h9l-1-5zm-7 22h7l1-5h-9l1 5zm8.5-12c0-2.76-2.24-5-5-5s-5 2.24-5 5 2.24 5 5 5 5-2.24 5-5zm-5 3.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1.57 3.5-3.5 3.5z"/>
+<text x="52" y="34" font-size="16" font-weight="700" fill="#E6EDF3">ProWatch</text>
+<path transform="translate(264 17) scale(1)" fill="#8B949E" d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"/>
+<text x="16" y="68" font-size="12.5" fill="#C9D1D9">Smart watch e-commerce &amp; device</text>
+<text x="16" y="85" font-size="12.5" fill="#C9D1D9">management web application with real-time</text>
+<text x="16" y="102" font-size="12.5" fill="#C9D1D9">tracking and sleek shopping experience.</text>
+<rect x="16.0" y="124" width="82.0" height="22" rx="5" fill="#2D6A31"/>
+<text x="57.0" y="139" font-size="11" font-weight="600" fill="#D2F0D0" text-anchor="middle">Spring Boot</text>
+<rect x="104.0" y="124" width="48.0" height="22" rx="5" fill="#0B6E83"/>
+<text x="128.0" y="139" font-size="11" font-weight="600" fill="#D3F3FA" text-anchor="middle">React</text>
+<rect x="158.0" y="124" width="82.0" height="22" rx="5" fill="#1B3F63"/>
+<text x="199.0" y="139" font-size="11" font-weight="600" fill="#C3DDF5" text-anchor="middle">PostgreSQL</text>
+<path transform="translate(16 160) scale(1.0)" fill="#8B949E" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.751.751 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
+<text x="38" y="173" font-size="13" fill="#8B949E">24</text>
+<path transform="translate(86 160) scale(1.0)" fill="#8B949E" d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"/>
+<text x="108" y="173" font-size="13" fill="#8B949E">5</text>
+</svg>
