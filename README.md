@@ -32,9 +32,9 @@
 
 <h3><a href="https://github.com/aaron-ACY?tab=repositories"><img align="right" src="assets/view-all-repos.svg" height="20" alt="View all repositories"></a>Featured Projects</h3>
 
-<a href="https://github.com/aaron-ACY/HYPE-Ticket"><img src="assets/project-hypeticket.svg" width="32%" alt="HYPE-Ticket"></a>
-<a href="https://github.com/aaron-ACY/ProWatch"><img src="assets/project-prowatch.svg" width="32%" alt="ProWatch"></a>
-<a href="https://github.com/aaron-ACY/SIMS-FPI"><img src="assets/project-simsfpi.svg" width="32%" alt="SIMS-FPI"></a>
+<a href="https://github.com/aaron-ACY/HYPE-Ticket"><img src="assets/project-hypeticket.svg?v=2" width="32%" alt="HYPE-Ticket"></a>
+<a href="https://github.com/aaron-ACY/ProWatch"><img src="assets/project-prowatch.svg?v=2" width="32%" alt="ProWatch"></a>
+<a href="https://github.com/aaron-ACY/SIMS-FPI"><img src="assets/project-simsfpi.svg?v=2" width="32%" alt="SIMS-FPI"></a>
 
 <!-- <h3><a href="#"><img align="right" src="assets/view-all-posts.svg" height="20" alt="View all posts"></a>My recent articles</h3>
 
@@ -62,7 +62,7 @@
       <img src="https://streak-stats.demolab.com/?user=aaron-ACY&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=FFFFFF&dates=8B949E&stroke=30363D" width="100%" alt="GitHub streak stats">
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="assets/contributions.svg" width="100%" alt="Contributions in the last year">
+      <img src="assets/contributions.svg?v=2" width="100%" alt="Contributions in the last year">
     </td>
   </tr>
 </table>
