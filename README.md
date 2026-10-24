@@ -62,3 +62,4 @@
   <img src="https://streak-stats.demolab.com/?user=aaron-ACY&theme=dark&hide_border=false&border=30363D&background=0D1117&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=FFFFFF&dates=8B949E&stroke=30363D" width="49%" alt="GitHub streak stats">
   <img src="assets/contributions.svg?v=3" width="49%" alt="Contributions in the last year">
 </p>
+<!-- Unlocking badges -->
